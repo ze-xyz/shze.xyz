@@ -11,22 +11,7 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer class={`${displayClass ?? ""}`}>
-        <p>
-          <small>
-            By <a href="https://www.pmcf.xyz">Pedro MC Fernandes</a>, unless otherwise stated or link-referenced.
-          </small>
-        </p>
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <small>
-                <a href={link}>{text}</a>
-              </small>
-            </li>
-          ))}
-        </ul>
-      </footer>
+      <footer></footer>
     )
   }
 

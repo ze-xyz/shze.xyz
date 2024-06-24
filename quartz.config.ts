@@ -3,16 +3,16 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Topo da mente",
+    pageTitle: "Conhecimento Hermetico",
     enableSPA: false,
     enablePopovers: false,
     analytics: null,
-    baseUrl: "pmcf.xyz/topo-da-mente",
+    baseUrl: "shze.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Lexend Zetta",
+        header: "Baskervville",
         body: "Lexend",
         code: "Monaspace Neon",
       },
@@ -28,13 +28,13 @@ const config: QuartzConfig = {
           highlight: "hsla(218, 100%, 43%, 0.15)",
         },
         darkMode: {
-          light: "#23252F",
+          light: "#1E1E1E",
           lightgray: "#474850",
-          gray: "#8E8F93",
-          darkgray: "#B1B2B4",
-          dark: "#D5D5D5",
-          secondary: "#8db4fa",
-          tertiary: "#6A84B6",
+          gray: "#505050",
+          darkgray: "#FFF",
+          dark: "#150150150",
+          secondary: "#0077255",
+          tertiary: "#0077255",
           highlight: "hsla(219, 92%, 77%, 0.2)",
         },
       },
