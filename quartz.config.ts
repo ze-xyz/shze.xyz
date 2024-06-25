@@ -7,13 +7,13 @@ const config: QuartzConfig = {
     enableSPA: false,
     enablePopovers: false,
     analytics: null,
-    baseUrl: "shze.com",
+    baseUrl: "https://ze-xyz.github.io/shze/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
         header: "Computer Modern Serif",
-        body: "Lexend",
+        body: "Computer Modern Typewriter",
         code: "JetBrains Mono",
       },
       colors: {
