@@ -12,9 +12,9 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Baskervville",
+        header: "Computer Modern Serif",
         body: "Lexend",
-        code: "Monaspace Neon",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
@@ -25,17 +25,17 @@ const config: QuartzConfig = {
           dark: "#23252F",
           secondary: "#0050db",
           tertiary: "hsla(218, 100%, 43%, 0.6)",
-          highlight: "hsla(218, 100%, 43%, 0.15)",
+          highlight: "hsla(218, 100%, 43%, 0)",
         },
         darkMode: {
           light: "#1E1E1E",
           lightgray: "#474850",
           gray: "#505050",
           darkgray: "#FFF",
-          dark: "#150150150",
-          secondary: "#0077255",
-          tertiary: "#0077255",
-          highlight: "hsla(219, 92%, 77%, 0.2)",
+          dark: "#ffffff",
+          secondary: "#0077FF",
+          tertiary: "#0077FF",
+          highlight: "hsla(218, 100%, 43%, 0)",
         },
       },
     },

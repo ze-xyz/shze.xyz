@@ -1,7 +1,8 @@
 @use "./base.scss";
+@import url("https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/typewriter.css");
+@import url("https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/serif.css");
 
 // Basics
-
 :root {
     --desktopMarginTop: 6em;
     --r1: 0.0625rem;
@@ -246,7 +247,6 @@ table {
 
 a {
     font-weight: inherit;
-    text-decoration: underline;
     color: var(--secondary);
     transition: color 0.2s ease;
     &:hover {
