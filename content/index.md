@@ -2,6 +2,7 @@
 title: Conhecimento Hermetico
 ---
 
+
 Meu objetivo com esse blog é abordar desde os fundamentos até os tópicos mais complexos de algumas das áreas que tenho interesse, com o fim de simplesmente tentar compreendê-las melhor:
 
 1. **[[Ciência da Computação]]**: Tentar entender e explicar tudo que roda por debaixo dos panos das tecnologias que usamos hoje em dia.

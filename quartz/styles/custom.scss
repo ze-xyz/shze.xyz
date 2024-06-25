@@ -1071,6 +1071,10 @@ a.data-footnote-backref.internal {
     padding: 0.125em 0.125em 0;
     vertical-align: -0.125em;
 }
+
+div.center a.internal {
+    text-decoration: underline;
+}
 p sup {
     line-height: 0;
 }
@@ -1204,11 +1208,19 @@ div.toc {
 h1 {
     font-size: 1.3em;
     font-weight: 600;
+    letter-spacing: 1px;
 
 }
 
-h2 {
+div.center h2 {
     font-size: 1.125em;
     font-weight: 600;
-    text-decoration: underline;
+}
+
+div.center hr {
+    margin: 0;
+}
+
+h3 {
+    font-size: 1em;
 }
