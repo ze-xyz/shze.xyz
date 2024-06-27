@@ -1,6 +1,5 @@
 @use "./base.scss";
-@import url("https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/typewriter.css");
-@import url("https://cdn.jsdelivr.net/gh/vsalvino/computer-modern@main/fonts/serif.css");
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
 // Basics
 :root {
@@ -59,6 +58,7 @@ strong {
 }
 p {
     margin: 1em 0;
+    font-weight: 300;
 }
 strong {
     font-weight: 700;
