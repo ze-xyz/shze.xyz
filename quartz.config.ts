@@ -4,8 +4,8 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Conhecimento Hermetico",
-    enableSPA: false,
-    enablePopovers: false,
+    enableSPA: true,
+    enablePopovers: true,
     analytics: null,
     baseUrl: "ze-xyz.github.io/shze",
     ignorePatterns: ["private", "templates", ".obsidian"],
