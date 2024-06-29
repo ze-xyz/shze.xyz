@@ -11,7 +11,9 @@ export default ((opts?: Options) => {
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
-      <footer></footer>
+      <footer>
+        <a href="https://www.github.com/ze-xyz" target="blank">Github</a>
+      </footer>
     )
   }
 

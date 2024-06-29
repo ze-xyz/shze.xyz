@@ -5,7 +5,7 @@ date: 2024-06-26
 
 Meu objetivo com esse blog é abordar desde os fundamentos até os tópicos mais complexos de algumas das áreas que tenho interesse, com o fim de simplesmente tentar compreendê-las melhor:
 
-1. **[[Ciência da Computação]]**: Tentar entender e explicar tudo que roda por debaixo dos panos das tecnologias que usamos hoje em dia.
+1. **[[Ciência da Computação]]**: Explorar e explicar os fundamentos e avanços das tecnologias que utilizamos hoje. Desde os primórdios com o ábaco, passando pela evolução dos computadores, até a inteligência artificial.
 
 2. **[[Filosofia]]**: Abordarei o tema de três ângulos diferentes: temático, problemático e histórico. Além disso, pretendo falar sobre pensamento crítico.
 
