@@ -1,5 +1,5 @@
 ---
-title: Conhecimento Hermetico
+title: Conhecimento Hermético
 date: 2024-06-26
 ---
 
