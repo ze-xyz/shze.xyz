@@ -18,7 +18,8 @@ export default (() => {
 
     return (
       <head>
-        <title>{title}</title>
+        <title>{title}</title>  
+        <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/dreampulse/computer-modern-web-font@master/fonts.css"></link>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content={title} />
