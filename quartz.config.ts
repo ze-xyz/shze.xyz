@@ -12,9 +12,9 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Computer Modern Serif",
-        body: "Computer Modern Typewriter",
-        code: "Computer Modern Typewriter",
+        header: "PT Serif",
+        body: "PT Serif",
+        code: "Courier Prime",
       },
       colors: {
         lightMode: {

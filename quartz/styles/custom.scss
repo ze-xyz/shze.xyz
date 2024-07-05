@@ -60,6 +60,7 @@ p {
     margin: 1em 0;
     font-weight: 300;
 }
+
 strong {
     font-weight: 700;
 }
@@ -223,6 +224,9 @@ table {
     }
 }
 
+div.center p {
+    font-size: 1.2em;
+}
 /* Scrollbar */
 
 // * {
