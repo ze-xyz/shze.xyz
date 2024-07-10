@@ -316,13 +316,12 @@ div[data-rehype-pretty-code-fragment] {
   }
 
   & > pre {
-    padding: 0.5rem 0;
+    border-radius: var(--r5);
   }
 }
 
 pre {
   font-family: var(--codeFont);
-  padding: 0.5rem;
   border-radius: 5px;
   overflow-x: auto;
   border: 1px solid var(--lightgray);
@@ -362,6 +361,10 @@ pre {
         display: inline-block;
         text-align: right;
         color: rgba(115, 138, 148, 0.6);
+      }
+
+      &::before {
+        content: none;
       }
     }
 
