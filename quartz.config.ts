@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Computer Modern Serif",
-        body: "Bitter",
+        body: "Lora",
         code: "Courier Prime",
       },
       colors: {
