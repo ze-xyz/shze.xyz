@@ -13,8 +13,8 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Latin Modern Roman",
-        body: "Latin Modern Sans",
-        code: "Latin Modern Mono Prop",
+        body: "Latin Modern Mono Prop",
+        code: "Latin Modern Mono",
       },
       colors: {
         lightMode: {
