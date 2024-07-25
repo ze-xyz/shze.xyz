@@ -7,7 +7,7 @@ Meu objetivo aqui é compartilhar e registrar o desenvolvimento dos meus estudos
 
 ---
 
-O estudo inicial está organizado em nove tópicos fundamentais:
+O estudo inicial esta organizado em nove tópicos fundamentais:
 
 - Programação
 - Arquitetura de Computadores

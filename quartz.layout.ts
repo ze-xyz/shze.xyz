@@ -8,9 +8,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer(
     {
     links: {
-      "About": "https://www.pmcf.xyz/topo-da-mente",
-      "Are.na": "https://www.are.na/p-m-c-f",
-      "Mastodon": "https://mastodon.social/@freenandes",
     },
   }
   ),
@@ -27,7 +24,6 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.Search(),
-    Component.Darkmode(),
     Component.Divider(),
     Component.DesktopOnly(Component.RecentNotes({
       title: "Most recent",

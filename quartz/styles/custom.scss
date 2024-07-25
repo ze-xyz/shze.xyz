@@ -1037,7 +1037,7 @@ pre code:not(.mermaid) {
     border-radius: var(--r5);
 }
 button.clipboard-button {
-    font-size: 1rem;
+    font-size: 0rem;
     padding: 0.5625em;
     margin: 0.25em;
     border: none;
@@ -1054,6 +1054,10 @@ button.clipboard-button > svg {
 }
 button.clipboard-button > svg > path {
     fill: var(--dark) !important;
+}
+
+p > code {
+    border: 1px solid var(--lightgray);
 }
 
 // Footnotes

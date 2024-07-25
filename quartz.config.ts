@@ -12,8 +12,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Latin Modern Roman",
-        body: "Latin Modern Mono Prop",
+        header: "Karla",
+        body: "Karla",
         code: "Latin Modern Mono",
       },
       colors: {
