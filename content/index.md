@@ -19,7 +19,7 @@ O estudo inicial esta organizado em nove tópicos fundamentais:
 - Linguagens e Compiladores
 - Sistemas Distribuídos
 
-Este estudo será realizado em conjunto com minha formação acadêmica e terá como alicerce livros complexos. Portanto, não tera prazo para término.
+Este estudo será realizado em conjunto com minha formação acadêmica e terá como alicerce livros complexos. Portanto, se estenderá ao longo de minha carreira, sem um prazo definido para término.
 
 > Alguns livros devem ser degustados, outros devem ser engolidos, enquanto alguns poucos devem ser mastigados e digeridos. 
 > 
