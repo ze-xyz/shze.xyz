@@ -3,4 +3,4 @@
 meu blog pessoal
 
 ### creditos
-- [quartz](quartz.jzhao.xyz)
+- [quartz](https://github.com/jackyzha0/quartz)
