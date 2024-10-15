@@ -12,8 +12,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Courier Prime",
-        body: "Courier Prime",
+        header: "Outfit",
+        body: "Outfit",
         code: "Courier Prime",
       },
       colors: {
